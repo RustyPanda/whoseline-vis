@@ -1,4 +1,3 @@
-
 git+git://github.com/bmorris3/whoseline-vis.git
 astropy
 bokeh
