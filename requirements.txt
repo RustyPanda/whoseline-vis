@@ -1,4 +1,12 @@
 
 git+git://github.com/bmorris3/whoseline-vis.git
--e .
--e git+git://github.com/bmorris3/whoseline.git#egg=whoseline
+astropy
+bokeh
+Flask
+Jinja2
+numpy
+pandas
+six
+
+# -e .
+# -e git+git://github.com/bmorris3/whoseline.git#egg=whoseline
