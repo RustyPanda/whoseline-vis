@@ -6,9 +6,8 @@ from bokeh.command.util import build_single_handler_applications
 import subprocess
 import os
 
-
-host = '127.0.0.1'
-app_port = 8000
+app_port = int(os.environ.get('PORT', 5000))
+host='0.0.0.0'
 bokeh_port = 6060
 
 
