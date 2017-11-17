@@ -7,3 +7,4 @@ numpy
 pandas
 six
 git+git://github.com/bmorris3/whoseline.git#egg=whoseline
+git+git://github.com/bmorris3/whoseline-vis.git#egg=whoseline-vis
